@@ -86,8 +86,8 @@ Projeyi yerel bilgisayarında çalıştırmak için aşağıdaki adımları izle
 
 1. **Repoyu klonla:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[esmanuryavuz908]/[musteri-davranis-analizi-eda].git
-   cd [musteri-davranis-analizi-eda]
+   git clone https://github.com/esmanuryavuz908/musteri-davranis-analizi-eda.git
+   cd musteri-davranis-analizi-eda
    ```
 
 2. **(Önerilen) Sanal ortam oluştur ve etkinleştir:**
@@ -108,7 +108,7 @@ Projeyi yerel bilgisayarında çalıştırmak için aşağıdaki adımları izle
    ```bash
    jupyter notebook
    ```
-   Açılan arayüzden `[musteri_davranis_analizi.ipynb]` dosyasını seçip hücreleri sırayla (`Run All`) çalıştırabilirsin.
+   Açılan arayüzden `musteri_davranis_analizi.ipynb` dosyasını seçip hücreleri sırayla (`Run All`) çalıştırabilirsin.
 
 ---
 
